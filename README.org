@@ -1,4 +1,4 @@
-* Sonian Monitoring Dashboard
-- Lists current alerts from the monitoring server
-- Lists clients subscribed to AMQP queues
-- Uses WebSockets to receive new information
+* We Moved!
+Sensu-Dashboard has moved to [[https://github.com/sensu][its own GitHub organization]], you can find the repository [[https://github.com/sensu/sensu-dashboard][HERE]].
+
+DON'T PANIC, keep calm.
